@@ -2,7 +2,7 @@
 - 👀 I’m interested in Problem Solving using Hardware and Software tools
 - 🌱 I’m currently learning C++ and exploring the worlds of AI and ML
 - 💞️ I’m looking to collaborate on Arduino and Python projects. C++ in the future
-- 📫 How to reach me: EMail pratosh2002@gmail.com
+- 📫 How to reach me: Email pratosh2002@gmail.com
 
 <!---
 pratox1112/pratox1112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
