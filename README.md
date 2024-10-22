@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pratosh Karthikeyan
 - 👀 I’m interested in Problem Solving using Hardware and Software tools
-- 🌱 I’m currently learning C++ and exploring the worlds of AI and ML
-- 💞️ I’m looking to collaborate on Arduino and Python projects. C++ in the future
+- 🌱 I’m currently learning advanced machine learning model and their use in the biomedical space
+- 💞️ I’m looking to collaborate on Python and Machine Learning projects. 
 - 📫 How to reach me: Email pratosh2002@gmail.com
 
 <!---
